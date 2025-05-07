@@ -24,5 +24,7 @@ Built an interactive Streamlit app that ingests unstructured customer feedback a
 pip install -r requirements.txt
 streamlit run app/feedback_analyzer.py
 ```
+Or 
+Click https://llm-based-app-feedback-analyzer.streamlit.app/
 
 Upload a CSV with at least a `feedback` column. Optionally include `segment` and `feature` columns for deeper analysis.
