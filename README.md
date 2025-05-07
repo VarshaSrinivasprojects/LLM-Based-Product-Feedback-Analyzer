@@ -1,12 +1,17 @@
 # LLM-Based Product Feedback Analyzer
 
-This app allows product teams to analyze unstructured customer feedback using NLP and LLM-based topic modeling.
+🔍 Overview
+Built an interactive Streamlit app that ingests unstructured customer feedback and applies NLP and LLM-based techniques to surface actionable insights for product and CX teams.
 
-## 🔍 Features
-- BERTopic for topic modeling on feedback text
-- TextBlob for quick sentiment scoring
-- Segment-level complaint identification
-- Feature-wise sentiment comparison (if tagged)
+The app helps identify:
+
+Top themes and complaints using BERTopic for topic modeling
+
+Customer sentiment using TextBlob
+
+Segment-specific issues and product pain points
+
+Sentiment trends mapped to features for roadmap planning
 
 ## 📦 Stack
 - Python, Pandas
