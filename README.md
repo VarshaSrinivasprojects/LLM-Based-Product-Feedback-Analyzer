@@ -3,15 +3,15 @@
 🔍 Overview
 Built an interactive Streamlit app that ingests unstructured customer feedback and applies NLP and LLM-based techniques to surface actionable insights for product and CX teams.
 
-The app helps identify:
+##The app helps identify:
 
-Top themes and complaints using BERTopic for topic modeling
+- Top themes and complaints using BERTopic for topic modeling
 
-Customer sentiment using TextBlob
+- Customer sentiment using TextBlob
 
-Segment-specific issues and product pain points
+- Segment-specific issues and product pain points
 
-Sentiment trends mapped to features for roadmap planning
+- Sentiment trends mapped to features for roadmap planning
 
 ## 📦 Stack
 - Python, Pandas
